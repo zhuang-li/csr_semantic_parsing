@@ -5,6 +5,8 @@ __pycache__/
 *.pyc
 *.bin
 *.txt
+*.npy
+*.gz
 # C extensions
 *.so
 
@@ -13,6 +15,7 @@ embedding/
 saved_models/
 fast_align/
 logs/
+roberta-base-nli-stsb-mean-tokens/
 
 .png
 .idea
